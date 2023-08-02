@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"testgo/db"
+	"github.com/sanzhang007/crawl_nodes/db"
 
 	"github.com/xxf098/lite-proxy/web"
 	"github.com/xxf098/lite-proxy/web/render"

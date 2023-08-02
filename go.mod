@@ -1,4 +1,4 @@
-module testgo
+module github.com/sanzhang007/crawl_nodes
 
 go 1.20
 
