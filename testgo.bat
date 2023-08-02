@@ -1,1 +1,1 @@
-cd C:\Users\zs\Desktop\project\testgo && testgo.exe -test all
+./testgo.exe -test all
