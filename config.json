@@ -1,0 +1,14 @@
+{
+    "group":"job",
+    "speedtestMode":"all",
+    "pingMethod":"googleping",
+    "sortMethod":"rspeed",
+    "concurrency":4,
+    "testMode":2,
+    "subscription":"",
+    "timeout":16,
+    "language":"en",
+    "fontSize":24,
+    "theme":"rainbow",
+    "outputMode": 2
+}
