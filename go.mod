@@ -3,11 +3,15 @@ module github.com/sanzhang007/crawl_nodes
 go 1.20
 
 require (
-	github.com/xxf098/lite-proxy v0.15.0
+	// github.com/xxf098/lite-proxy v0.15.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/mysql v1.5.1
 	gorm.io/gorm v1.25.2
 )
+
+require github.com/xxf098/lite-proxy v0.15.0
+
+replace github.com/xxf098/lite-proxy => ./lite-proxy
 
 require (
 	github.com/Dreamacro/go-shadowsocks2 v0.1.8 // indirect
