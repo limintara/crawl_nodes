@@ -1,9 +1,118 @@
 index: []
 urls:
   ########################自己付费节点(备用)###############################
-  #
+  # - https://app-bph6guhsfgdbd8ds.z01.azurefd.net/Nxpo/ES7rJ/ch
   ########################################################################
 
-  ###########################优质节点#####################################
-  - link
+  ###########################动态更新类#####################################
+  - http://127.0.0.1/user/awei
+  - http://127.0.0.1/user/yudou
+  - http://127.0.0.1/user/diary
+  - http://127.0.0.1/user/由零開始
+  - https://freenode.me/wp-content/uploads/{year}/{month}/{day}98.yaml
+  - https://freenode.me/wp-content/uploads/2023/08/1098.txt
+  - https://agit.ai/12/a/raw/branch/master/{month_s}/{month_s}.{day_s}cl-awkj
+  - https://v2rayshare.com/wp-content/uploads/{year}/{month}/{year}{month}{day}.txt
+  - https://nodefree.org/dy/{year}/{month}/{year}{month}{day}.txt
+  - https://freeclash.org/wp-content/uploads/{year}/{month}/{month}{day}.txt
+  - https://clashfree.eu.org/wp-content/uploads/rss/{year}{month}{day}.txt
+  - https://oss.v2rayse.com/custom/data/{year}_{month}_{day}/gGp7a7.yaml
+  - https://oss.v2rayse.com/custom/data/{year}_{month}_{day}/aDL90t.yaml
+  - https://clashfree.eu.org/wp-content/uploads/rss/{year}{month}{day}.txt
+  - https://clashnode.com/wp-content/uploads/{year}/{month}/{year}{month}{day}.yaml
+  - https://agit.ai/blue/youlingkaishi/raw/branch/master/{year}/{month_s}/v{day_s}
+  - https://nodeshare.org/wp-content/uploads/{year}/{month}/{day}88.txt
+  - https://nodebird.net/wp-content/uploads/{year}/{month}/{year}{month}{day}.txt
+  - https://wenode.cc/wp-content/uploads/{year}/{month}/{year}{month}{day}.txt
+  - https://oneclash.cc/wp-content/uploads/{year}/{month}/{year}{month}{day}.yaml
+  - https://clashgithub.com/wp-content/uploads/rss/{year}{month}{day}.yml
+  - https://hiclash.com/wp-content/uploads/{year}/{month}/{year}{month}{day}.txt
+  - https://onenode.cc/wp-content/uploads/{year}/{month}/{year}{month}{day}.yaml
+  - https://v2rayshare.com/wp-content/uploads/{year}/{month}/{year}{month}{day}.yaml
+  ########################################################################
+
+  ############################订阅类节点#####################################
+  - https://drive.google.com/uc?export=download&id=1z302PAzkxHzNeJpXszZY8um9vN3JkwY7
+  - https://v2ray.neocities.org/v2ray.txt
+  - https://anaer.github.io/Sub/clash.yaml
+  - https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcXlyR0VUNzdXNnhoMDI3RUxkMmEyNFRfVkJaP2U9bFVkYWV2.jpg
+  - https://oss.v2rayse.com/custom/data/2023_08_07/wjHfvh.txt
+  - https://oss.v2rayse.com/custom/data/2023_08_08/3KyPQA.txt
+  - https://oss.v2rayse.com/proxies/data/2023-08-07/mFsrZDM.txt
+  - https://drive.google.com/uc?export=download&id=12Bk98pDrhLVIzSH7A_uwfleTTbOiKkcE
+  ###需网页解析###
+  # - https://github.com/mksshare/mksshare.github.io 没用的订阅
+
+
+  ############################github类节点#####################################
+  - https://raw.githubusercontent.com/mianfeifq/share/main/data{year}{month}1.txt
+  - https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
+  - https://raw.githubusercontent.com/freefq/free/master/v2
+  - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+  - https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+  - https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+  - https://raw.githubusercontent.com/freenodes/freenodes/main/clash_speed.yaml
+  - https://raw.githubusercontent.com/ts-sf/fly/main/clash
+  - https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+  - https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+  - https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+  - https://raw.githubusercontent.com/openrunner/clash-freenode/main/clash.yaml
+  - https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+  - https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+  # - https://github.com/w1770946466/Auto_proxy/blob/main/sub/23{month}/23{month}{day}.txt
+  - https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/sub/23{month}/23{month}{day}.txt
+  - https://raw.githubusercontent.com/free18/v2ray/main/v2ray.txt
+  - https://github.com/tolinkshare/freenode
+  - https://raw.githubusercontent.com/zhou-jian-qq/clashFreeNode/main/clashNode.yaml
+  - https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray040d7.txt
+  - https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
+  #########################################################################
+
+
+  ################################sub类节点#################################
+  - https://proxy.yugogo.xyz/ss/sub
+  - https://proxy.yugogo.xyz/trojan/sub
+  - https://free.jingfu.cf/sip002/sub
+  - https://free.jingfu.cf/ss/sub
+  - https://free.jingfu.cf/ssr/sub
+  - https://free.jingfu.cf/vmess/sub
+  - https://free.jingfu.cf/trojan/sub
+  - https://free.dsdog.tk/sip002/sub
+  - https://free.dsdog.tk/ssr/sub
+  - https://free.dsdog.tk/vmess/sub
+  - https://free.dsdog.tk/trojan/sub
+  - https://freemby.tk/sip002/sub
+  - https://freemby.tk/ssr/sub
+  - https://freemby.tk/vmess/sub
+  - https://freemby.tk/trojan/sub
+  - https://beetle.lander.work/sip002/sub
+  - https://beetle.lander.work/ssr/sub
+  - https://beetle.lander.work/vmess/sub
+  - https://beetle.lander.work/trojan/sub
+  - https://proxy.crazygeeky.com/ss/sub	
+  - https://proxy.crazygeeky.com/sip002/sub	
+  - https://proxy.crazygeeky.com/ssr/sub	
+  - https://proxy.crazygeeky.com/vmess/sub	
+  - https://proxy.crazygeeky.com/trojan/sub
+  # - https://free.iam7.tk/ss/sub
+  - https://free.iam7.tk/sip002/sub
+  - https://free.iam7.tk/ssr/sub
+  - https://free.iam7.tk/vmess/sub
+  - https://free.iam7.tk/trojan/sub
+  - https://free.iam7.tk/clash/proxies
+  - https://proxy.yugogo.xyz/ss/sub	
+  - https://proxy.yugogo.xyz/sip002/sub	
+  - https://proxy.yugogo.xyz/ssr/sub	
+  - https://proxy.yugogo.xyz/vmess/sub	
+  - https://proxy.yugogo.xyz/trojan/sub
+  - https://proxypool.link/ss/sub
+  - https://proxypool.link/ssr/sub
+  - https://proxypool.link/vmess/sub
+  - https://proxypool.link/trojan/sub
+  - https://wanshanziwo.eu.org/ss/sub	
+  - https://wanshanziwo.eu.org/sip002/sub	
+  - https://wanshanziwo.eu.org/vmess/sub	
+  - https://wanshanziwo.eu.org/trojan/sub
+  - https://sub.sharecentre.online/sub
+  - https://vmss.gaojilingjulo.link/sub
   ########################################################################
