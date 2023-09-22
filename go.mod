@@ -15,6 +15,8 @@ require (
 	github.com/xxf098/lite-proxy v0.15.0
 )
 
+replace github.com/xxf098/lite-proxy => ./lite-proxy
+
 require (
 	github.com/Dreamacro/go-shadowsocks2 v0.1.8 // indirect
 	github.com/go-sql-driver/mysql v1.7.0 // indirect
