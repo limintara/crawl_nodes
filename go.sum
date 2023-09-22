@@ -66,12 +66,8 @@ github.com/sanzhang007/NodeShare v0.0.0-20230810025920-6b12c680f8a4 h1:jA1TNih+A
 github.com/sanzhang007/NodeShare v0.0.0-20230810025920-6b12c680f8a4/go.mod h1:EdaW8+xZUuUKma4z4b+Fdo0IMQOLFMDPspOR68HK4js=
 github.com/sanzhang007/webgin v0.0.0-20230922102915-fa909e05ece1 h1:Apz9RI3eggJqxstwPVpoHycZNQ27sOfiFqkFwaft9oQ=
 github.com/sanzhang007/webgin v0.0.0-20230922102915-fa909e05ece1/go.mod h1:P7JH9fVW3JD5hMELds0XzVIv29AYs2KQV4+MxNRMSmI=
-github.com/stretchr/testify v1.8.3 h1:RP3t2pwF7cMEbC1dqtB6poj3niw/9gnV4Cjg5oW5gtY=
-github.com/stretchr/testify v1.8.3/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
-github.com/sanzhang007/webgin v0.0.0-20230802055622-03143c4dd8dc h1:cWs/ulNL2Kv1q9UujTeWvv0RZkg9qhkm6RHzpzlxOeg=
-github.com/sanzhang007/webgin v0.0.0-20230802055622-03143c4dd8dc/go.mod h1:P7JH9fVW3JD5hMELds0XzVIv29AYs2KQV4+MxNRMSmI=
-github.com/sanzhang007/webgin v0.0.0-20230922102915-fa909e05ece1 h1:Apz9RI3eggJqxstwPVpoHycZNQ27sOfiFqkFwaft9oQ=
-github.com/sanzhang007/webgin v0.0.0-20230922102915-fa909e05ece1/go.mod h1:P7JH9fVW3JD5hMELds0XzVIv29AYs2KQV4+MxNRMSmI=
+github.com/sanzhang007/webgin v0.0.0-20230922130839-f4f051c42d5e h1:D5UzgsH7Opf8iW4aDlf+PA68mv+dHU1HOeMBi3FKdNo=
+github.com/sanzhang007/webgin v0.0.0-20230922130839-f4f051c42d5e/go.mod h1:P7JH9fVW3JD5hMELds0XzVIv29AYs2KQV4+MxNRMSmI=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.4.0/go.mod h1:YvHI0jy2hoMjB+UWwv71VJQ9isScKT/TqJzVSSt89Yw=
 github.com/stretchr/objx v0.5.0/go.mod h1:Yh+to48EsGEfYuaHDzXPcE3xhTkx73EhmCGUpEOglKo=
@@ -87,8 +83,6 @@ github.com/twitchyliquid64/golang-asm v0.15.1 h1:SU5vSMR7hnwNxj24w34ZyCi/FmDZTkS
 github.com/twitchyliquid64/golang-asm v0.15.1/go.mod h1:a1lVb/DtPvCB8fslRZhAngC2+aY1QWCk3Cedj/Gdt08=
 github.com/ugorji/go/codec v1.2.11 h1:BMaWp1Bb6fHwEtbplGBGJ498wD+LKlNSl25MjdZY4dU=
 github.com/ugorji/go/codec v1.2.11/go.mod h1:UNopzCgEMSXjBc6AOMqYvWC1ktqTAfzJZUZgYf6w6lg=
-github.com/xxf098/lite-proxy v0.15.0 h1:q629QnfeIYDSCCb/8jvu4xsva+TFjS93ZwFQZYkWROE=
-github.com/xxf098/lite-proxy v0.15.0/go.mod h1:rxmb4ls22xK5eVPewwnWiYs61dHhQcEA+GSboYWvtP0=
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
