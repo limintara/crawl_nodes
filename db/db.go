@@ -20,13 +20,14 @@ func init() {
 		fmt.Println(err)
 	}
 
-	DB.AutoMigrate(&Nodes{})
+	DB.AutoMigrate(&Node1{})
 }
 
-type Nodes struct {
+type Node1 struct {
 	Id           int
 	Url          string
-	Link         string `gorm:"unique;size:600"`
+	Link         string `gorm:"size:600"`
+	Link1        string `gorm:"unique"`
 	Ping         int
 	AvgSpeed     int
 	MaxSpeed     int
