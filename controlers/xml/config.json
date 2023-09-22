@@ -1,0 +1,6 @@
+{
+    "urls":[
+        {"url":"https://oss.v2rayse.com/custom/"}
+    ],
+    "proxy":"http://127.0.0.1:7890"
+}
