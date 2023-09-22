@@ -68,18 +68,6 @@ func main() {
 
 }
 
-func WriteFile(name string, data []byte, perm os.FileMode) error {
-	f, err := os.OpenFile(name, os.O_WRONLY|os.O_APPEND|os.O_CREATE, perm)
-	if err != nil {
-		return err
-	}
-	_, err = f.Write(data)
-	if err1 := f.Close(); err1 != nil && err == nil {
-		err = err1
-	}
-	return err
-}
-
 func liteSpeed() {
 	var wg sync.WaitGroup
 	// urls.Urls = append(urls.Urls, parse.GetChangfengpaths()...)
@@ -92,10 +80,6 @@ func liteSpeed() {
 			nodes, _ := web.ParseLinks(url)
 
 			for _, link := range nodes {
-				if strings.HasPrefix(link, "vless://") {
-					WriteFile("tmp.yaml", []byte(link+"\n"), 0666)
-
-				}
 				node := db.Node1{
 					Url:        url,
 					Link:       link,
