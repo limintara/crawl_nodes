@@ -3,12 +3,19 @@ module github.com/sanzhang007/crawl_nodes
 go 1.20
 
 require (
+<<<<<<< HEAD
 	github.com/sanzhang007/webgin v0.0.0-20230802055622-03143c4dd8dc
+=======
+>>>>>>> 02185c5871ad22991925b5578ab5793daccede32
 	// github.com/xxf098/lite-proxy v0.15.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/mysql v1.5.1
 	gorm.io/gorm v1.25.2
 )
+
+require github.com/xxf098/lite-proxy v0.15.0
+
+replace github.com/xxf098/lite-proxy => ./lite-proxy
 
 require (
 	github.com/sanzhang007/NodeShare v0.0.0-20230810025920-6b12c680f8a4

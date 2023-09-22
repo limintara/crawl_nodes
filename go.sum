@@ -20,6 +20,7 @@ github.com/kr/text v0.2.0 h1:5Nx0Ya0ZqY2ygV366QzturHI13Jq95ApcVaJBhpS+AY=
 github.com/miekg/dns v1.1.50 h1:DQUfb9uc6smULcREF09Uc+/Gd46YWqJd5DbpPE9xkcA=
 github.com/miekg/dns v1.1.50/go.mod h1:e3IlAVfNqAllflbibAZEWOXOQ+Ynzk/dDozDxY7XnME=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+<<<<<<< HEAD
 github.com/sanzhang007/NodeShare v0.0.0-20230810025920-6b12c680f8a4 h1:jA1TNih+ArfYWzCL0ZGtnqqW56uMp0liy8Tm1u1yeJE=
 github.com/sanzhang007/NodeShare v0.0.0-20230810025920-6b12c680f8a4/go.mod h1:EdaW8+xZUuUKma4z4b+Fdo0IMQOLFMDPspOR68HK4js=
 github.com/sanzhang007/webgin v0.0.0-20230802055622-03143c4dd8dc h1:cWs/ulNL2Kv1q9UujTeWvv0RZkg9qhkm6RHzpzlxOeg=
@@ -28,6 +29,9 @@ github.com/stretchr/testify v1.8.3 h1:RP3t2pwF7cMEbC1dqtB6poj3niw/9gnV4Cjg5oW5gt
 github.com/stretchr/testify v1.8.3/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/xxf098/lite-proxy v0.15.0 h1:q629QnfeIYDSCCb/8jvu4xsva+TFjS93ZwFQZYkWROE=
 github.com/xxf098/lite-proxy v0.15.0/go.mod h1:rxmb4ls22xK5eVPewwnWiYs61dHhQcEA+GSboYWvtP0=
+=======
+github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
+>>>>>>> 02185c5871ad22991925b5578ab5793daccede32
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
