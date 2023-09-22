@@ -1,14 +1,21 @@
 {
     "group":"job",
     "speedtestMode":"all",
-    "pingMethod":"googleping",
-    "sortMethod":"rspeed",
-    "concurrency":4,
-    "testMode":2,
+    "pingMethod":"tcpping",
+    "sortMethod":"",
+    "concurrency":6,
+    "testMode":3,
     "subscription":"",
-    "timeout":16,
+    "timeout":32,
     "language":"en",
-    "fontSize":24,
+    "fontSize":48,
+    "unique": false,
     "theme":"rainbow",
-    "outputMode": 2
+    "outputMode": 2,
+
+    "urls":[
+        {"url":"https://oss.v2rayse.com/custom/"},
+        {"url":"https://oss.v2rayse.com/proxies/"}
+    ],
+    "proxy":"http://127.0.0.1:7890"
 }
