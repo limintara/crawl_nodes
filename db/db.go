@@ -25,9 +25,9 @@ func init() {
 
 type Node1 struct {
 	Id           int
-	Url          string
-	Link         string `gorm:"size:600"`
-	Link1        string `gorm:"unique"`
+	Url          string `gorm:"type:varchar(1022)"`
+	Link         string `gorm:"type:text"`
+	Link1        string `gorm:"type:varchar(510);unique"`
 	Ping         int
 	AvgSpeed     int
 	MaxSpeed     int
