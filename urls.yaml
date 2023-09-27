@@ -43,7 +43,9 @@ urls:
 
 
   ############################github类节点#####################################
-  - https://raw.githubusercontent.com/mianfeifq/share/main/data{year}{month}1.txt
+  - https://raw.githubusercontent.com/mianfeifq/share/main/data{year}{month}4.txt
+  - https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/sub/23{month}/23{month}{day}.txt
+  - https://raw.githubusercontent.com/pojiezhiyuanjun/{year}/main/{month}{day}clash.yml
   - https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
   - https://raw.githubusercontent.com/freefq/free/master/v2
   - https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
@@ -53,12 +55,9 @@ urls:
   - https://raw.githubusercontent.com/ts-sf/fly/main/clash
   - https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
   - https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
-  - https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
   - https://raw.githubusercontent.com/openrunner/clash-freenode/main/clash.yaml
   - https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
   - https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-  # - https://github.com/w1770946466/Auto_proxy/blob/main/sub/23{month}/23{month}{day}.txt
-  - https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/sub/23{month}/23{month}{day}.txt
   - https://raw.githubusercontent.com/free18/v2ray/main/v2ray.txt
   - https://github.com/tolinkshare/freenode
   - https://raw.githubusercontent.com/zhou-jian-qq/clashFreeNode/main/clashNode.yaml
