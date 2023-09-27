@@ -44,7 +44,7 @@ urls:
 
   ############################github类节点#####################################
   - https://raw.githubusercontent.com/mianfeifq/share/main/data{year}{month}4.txt
-  - https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/sub/23{month}/23{month}{day}.txt
+  # - https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/sub/23{month}/23{month}{day}.txt
   - https://raw.githubusercontent.com/pojiezhiyuanjun/{year}/main/{month}{day}clash.yml
   - https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
   - https://raw.githubusercontent.com/freefq/free/master/v2
@@ -63,6 +63,22 @@ urls:
   - https://raw.githubusercontent.com/zhou-jian-qq/clashFreeNode/main/clashNode.yaml
   - https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray040d7.txt
   - https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
+  - https://raw.githubusercontent.com/Alvin9999/pac2/master/clash.meta/config.yaml
+  - https://raw.githubusercontent.com/Alvin9999/pac2/master/clash.meta/1/config.yaml
+  - https://raw.githubusercontent.com/Alvin9999/pac2/master/clash.meta/2/config.yaml
+  - https://raw.githubusercontent.com/Alvin9999/pac2/master/clash.meta/3/config.yaml
+  - https://raw.githubusercontent.com/Alvin9999/pac2/master/clash.meta/13/config.yaml
+  - https://raw.githubusercontent.com/Alvin9999/pac2/master/clash.meta/15/config.yaml
+  - https://raw.githubusercontent.com/openRunner/clash-freenode/main/clash.yaml
+  - https://raw.githubusercontent.com/ronghuaxueleng/get_v2/main/pub/combine.yaml
+  # - https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+  # - https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
+  - https://bitbucket.org/huwo1/proxy_nodes/raw/f31ca9ec67b84071515729ff45b011b6b09c10f2/clash.yaml
+  - https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_v2ray.yml
+  - https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_trojan.yml
+  - https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_ssr.yml
+  - https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/combine/clash.config.yaml
+  - https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
   #########################################################################
 
 
