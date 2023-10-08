@@ -43,7 +43,7 @@ urls:
 
 
   ############################github类节点#####################################
-  - https://raw.githubusercontent.com/ByteDoll/jichang/main/config.yaml
+  # - https://raw.githubusercontent.com/ByteDoll/jichang/main/config.yaml
   - https://raw.githubusercontent.com/mianfeifq/share/main/data{year}{month}4.txt
   # - https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/sub/23{month}/23{month}{day}.txt
   - https://raw.githubusercontent.com/pojiezhiyuanjun/{year}/main/{month}{day}clash.yml
